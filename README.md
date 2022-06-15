@@ -1,6 +1,6 @@
 # No-Recoil
 
-F1 On
+**F1 On
 
 F2 Off
 
@@ -10,5 +10,5 @@ F4 Low  Sensitivity
 
 F5 Close App
 
-F6 Open App
+F6 Open App**
 
